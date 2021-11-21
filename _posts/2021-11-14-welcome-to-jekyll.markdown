@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "안녕하세요. 블로그에 오신 것을 환영합니다"
-date:   2021-11-14 15:34:48 +0900
+title:  "안녕하세요 제 블로그에 오신 것을 환영합니다."
+date:   2021-11-14 11:40:48 +0900
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
