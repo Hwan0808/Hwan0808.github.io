@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 포스트 생성시에 발생 할 수 있는 각종 오류 코드를 쉽게 풀어놨다.
 
-https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0
+[velog](https://velog.io/@minji-o-j/jekyll-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0).
